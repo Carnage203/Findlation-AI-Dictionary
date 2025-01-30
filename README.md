@@ -19,9 +19,12 @@ Antonyms
 Translation  
 📌 Works with multiple languages & complex words!  
 
-📸 Screenshots
-🌟 Home Page
-📖 Word Meaning & Translation Output
+📸 Screenshots  
+🌟 Home Page  
+![](https://github.com/Carnage203/Findlation-AI-Dictionary/blob/a6f5f4ba7959081e57cfb158d793d004b53230f0/home.png)
+📖 Word Meaning & Translation Output  
+![](https://github.com/Carnage203/Findlation-AI-Dictionary/blob/a6f5f4ba7959081e57cfb158d793d004b53230f0/translation1.png)
+![](https://github.com/Carnage203/Findlation-AI-Dictionary/blob/a6f5f4ba7959081e57cfb158d793d004b53230f0/translation2.png)
 
 📦 Technologies Used
 🔹 Python – Core programming language
